@@ -4,6 +4,7 @@ Score,Method,Team,Members,Comment
 0.81272,perceptron,-group-19,drywitte hy522 iamyuchy rashmi59,
 0.77883,perceptron,-dkf,Runefeather chaosfengz karanY2019,
 0.7631,mlp,-group-16,Sprinkle612 Yi-Rong-yr244 singhaniasnigdha,
+0.72991,perceptron,-group-4,jssrob ry275 shixiyue,
 0.62579,mlp,-group-3,CassiniXu RhiannaSun Yifeng97,
 0.51747,mlp,-group-8,anton164 haomiao-han sztangcy,
 0.17226,perceptron,-the-team,adityasinha379 jrauch97 yehaozz,
@@ -61,5 +62,4 @@ Score,Method,Team,Members,Comment
 ,perceptron,-team-17,nayaknishant noah-rush samuel920119920119samuel,Error computing accuracy!
 ,perceptron,-group-8,anton164 haomiao-han sztangcy,Error computing accuracy!
 ,mlp,-group-8,anton164 haomiao-han sztangcy,Error computing accuracy!
-,perceptron,-group-4,jssrob ry275 shixiyue,Error computing accuracy!
 ,perceptron,-group-19,drywitte hy522 iamyuchy rashmi59,Error computing accuracy!
