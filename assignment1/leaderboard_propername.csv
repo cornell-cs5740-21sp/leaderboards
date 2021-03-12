@@ -1,8 +1,9 @@
 Score,Method,Team,Members,Comment
 0.83229,perceptron,-team-17,nayaknishant noah-rush samuel920119920119samuel,
-0.826,mlp,-group-8,anton164 haomiao-han sztangcy,
+0.81272,perceptron,-group-19,drywitte hy522 iamyuchy rashmi59,
 0.81237,perceptron,-group-16,Sprinkle612 Yi-Rong-yr244 singhaniasnigdha,
-0.7963,perceptron,-group-8,anton164 haomiao-han sztangcy,
+0.77883,perceptron,-dkf,Runefeather chaosfengz karanY2019,
+0.51747,mlp,-group-8,anton164 haomiao-han sztangcy,
 0.17226,perceptron,-the-team,adityasinha379 jrauch97 yehaozz,
 0.17226,mlp,-the-team,adityasinha379 jrauch97 yehaozz,
 0.17226,maxent,-the-team,adityasinha379 jrauch97 yehaozz,
@@ -32,7 +33,6 @@ Score,Method,Team,Members,Comment
 0.17226,perceptron,-group-2,calcalvin,
 0.17226,mlp,-group-2,calcalvin,
 0.17226,maxent,-group-2,calcalvin,
-0.17226,perceptron,-group-19,drywitte hy522 iamyuchy rashmi59,
 0.17226,mlp,-group-19,drywitte hy522 iamyuchy rashmi59,
 0.17226,maxent,-group-19,drywitte hy522 iamyuchy rashmi59,
 0.17226,mlp,-group-16,Sprinkle612 Yi-Rong-yr244 singhaniasnigdha,
@@ -57,9 +57,10 @@ Score,Method,Team,Members,Comment
 0.17226,perceptron,-aaa,MCLYang TianyunZ,
 0.17226,mlp,-aaa,MCLYang TianyunZ,
 0.17226,maxent,-aaa,MCLYang TianyunZ,
+0.14605,perceptron,-group-8,anton164 haomiao-han sztangcy,
 ,perceptron,-team-17,nayaknishant noah-rush samuel920119920119samuel,Error computing accuracy!
 ,perceptron,-group-8,anton164 haomiao-han sztangcy,Error computing accuracy!
 ,mlp,-group-8,anton164 haomiao-han sztangcy,Error computing accuracy!
 ,perceptron(character3-grams),-group-4,jssrob ry275 shixiyue,Error computing accuracy!
+,perceptron,-group-19,drywitte hy522 iamyuchy rashmi59,Error computing accuracy!
 ,perceptron,-group-16,Sprinkle612 Yi-Rong-yr244 singhaniasnigdha,Error computing accuracy!
-,perceptron,-dkf,Runefeather chaosfengz karanY2019,Error computing accuracy!
