@@ -1,6 +1,7 @@
 Score,Method,Team,Members,Comment
 0.77762,perceptron,-group-16,Sprinkle612 Yi-Rong-yr244 singhaniasnigdha,
 0.66264,perceptron,-dkf,Runefeather chaosfengz karanY2019,
+0.64804,perceptron,-group-4,jssrob ry275 shixiyue,
 0.05218,perceptron,-the-team,adityasinha379 jrauch97 yehaozz,
 0.05218,mlp,-the-team,adityasinha379 jrauch97 yehaozz,
 0.05218,maxent,-the-team,adityasinha379 jrauch97 yehaozz,
@@ -22,7 +23,6 @@ Score,Method,Team,Members,Comment
 0.05218,perceptron,-group-5,GoEvelynZhang moonorblue viannegao,
 0.05218,mlp,-group-5,GoEvelynZhang moonorblue viannegao,
 0.05218,maxent,-group-5,GoEvelynZhang moonorblue viannegao,
-0.05218,perceptron,-group-4,jssrob ry275 shixiyue,
 0.05218,mlp,-group-4,jssrob ry275 shixiyue,
 0.05218,maxent,-group-4,jssrob ry275 shixiyue,
 0.05218,perceptron,-group-3,CassiniXu RhiannaSun Yifeng97,
